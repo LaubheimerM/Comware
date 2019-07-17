@@ -1,0 +1,2 @@
+name;ip;switch_benutzer;switch_passwort;anzahl_10gigabit;anzahl_40gigabit;anzahl_switche_im_stack;mail_zu;mail_von;mailserver
+010-SR1-Schrank-1;172.30.8.10;security;security;48;4;2;markus.laubheimer@zwickroell.com;010-SR1-Schrank-1@zwickroell.com;smtp.zwickroell.com
